@@ -39,7 +39,7 @@ theme = "airspace-hugo"
 
   [params.feature]
     enable = true
-    title = "About us"
+    title = "About Us"
     content = "We are a local building cleaning services company located in San Diego. After being in the cleaning industry for more than 40 years, we've noticed that one big mistake in the cleaning industry is cross contamination. We want to change people's mind about cleaning and not just only consider something clean because it looks like it. You have to consider microparticles such as germs that can be on a surface that looks clean. That's why we came up with a process that truly kills germs and creates a healthier environment."
     [params.feature.button]
 
@@ -50,8 +50,9 @@ theme = "airspace-hugo"
 
   [params.contact]
     enable = true
-    title = "Contact us"
+    title = "Say Hello! Drop us a line."
     subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    email = "hello@cleasp.com"
     [params.contact.form]
       name = "Your name"
       email = "Your email"
