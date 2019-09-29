@@ -5,10 +5,6 @@
  * The original style.css is now called airspace.css
  * 
  */
-
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
-@import url(http://fonts.googleapis.com/css?family=Volkhov:400italic);
 /* var text-decoration */
 /*--
 	Common Css
@@ -50,15 +46,6 @@ a:active {
 }
 .section-title {
   margin-bottom: 70px;
-}
-.section-title h2 {
-  font-size: 28px;
-  font-weight: 600;
-}
-.section-title h4 {
-  text-transform: uppercase;
-  font-size: 12px;
-  font-weight: 600;
 }
 .section-title p {
   font-family: 'Volkhov', serif;
@@ -145,12 +132,6 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #intro {
   padding: 100px 0;
-}
-#intro .block h2 {
-  padding-top: 0px;
-  line-height: 27px;
-  margin: 0;
-  text-align: center;
 }
 #intro .block p {
   color: #7B7B7B;
@@ -258,12 +239,6 @@ font header .navbar-default .navbar-nav li a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   padding: 100px 0;
-  text-align: center;
-}
-#feature h2 {
-  font-size: 28px;
-  font-weight: 600;
-  margin-bottom: 30px;
   text-align: center;
 }
 #feature p {
