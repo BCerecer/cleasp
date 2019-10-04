@@ -45,8 +45,8 @@ theme = "airspace-hugo"
 
   [params.call]
     enable = true
-    title = "We design delightful digital experiences."
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+    title = "Get in touch with us!"
+    paragraph = "Learn more about our prices and how we can help you have a healthier work environment."
 
   [params.contact]
     enable = true
@@ -62,7 +62,7 @@ theme = "airspace-hugo"
     [params.contact.box]
       title = "Stop by for a visit"
       address = "North Main Street, Brooklyn Australia"
-      email = "Email: blasftw@gmail.com"
+      email = "Email: hello@cleasp.com"
       phone = "Phone: +88 01672 506 744"
     [params.contact.gmaps]
       title = "We Also Count in Google Maps"
